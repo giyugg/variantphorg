@@ -1,3 +1,3 @@
 # variantphorg
 
-- This repository is for VARIANT PH ORGANIZATION
+- This repository is for VARIANT PH ORGANIZATION.
