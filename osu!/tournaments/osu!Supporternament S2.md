@@ -8,7 +8,7 @@ The **osu!Supporternament** (***OST S2***) is a 1v1 osu! tournament hosted by th
 ## Tournament Schedule
 | Event | Date & Time | Notes
 | --: | :-- | :-- |
-| Registration phase | June 1, 2024 to  June 14, 2024 | 64 players are expected to register.
+| Registration phase | May 14, 2024 to  June 14, 2024 | 64 players are expected to register.
 | Qualifier showcase | June 15, 2024 10PM GMT+8 | After showcase, send the link of qualifier map pool on discord server.
 | Qualifier stage (32 Matches) | June 21, 2024 to June 28, 2024 | Plan is to give them 1 week to qualify. After that, 1 week break for players and RO32 matches will start at July 5. After the qualifiers match, RO32 map pool will be sent to players.
 | Round of 32 (16 Matches)| July 5, 2024 to July 8, 2024 | Aiming to do 3 to 5 matches a day. After that, 4 days break for players and RO16 matches will start at July 12. After the RO32 match, RO16 map pool will be sent to players.
