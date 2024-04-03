@@ -147,3 +147,25 @@ We are still looking for staffs!!!
   3. C
 - Tiebreaker
   1. A
+
+## Match Schedules
+
+## Ruleset
+
+### Tournament Rules
+
+### Tournament Registration
+
+### Qualifier instructions
+
+### Stage instructions
+
+### Match procedures
+
+### Mappool information
+
+### Scheduling information
+
+## Notes
+
+* [1] This forum is mostly made by [peppy's OWC 2023](https://raw.githubusercontent.com/ppy/osu-wiki/master/wiki/Tournaments/OWC/2023/en.md) and I just modified some bits here.
