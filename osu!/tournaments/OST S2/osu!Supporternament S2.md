@@ -16,3 +16,13 @@ Round of 16 (8 Matches)         | July 12, 2024 to July 15, 2024  | Aiming to do
 Quarterfinals (4 Matches)       | July 19, 2024 to July 20, 2024  | Aiming to  do 2 matches per day or if possible, do all matches in one day (Jul. 19 - FRI). After that, 6 days to 1 week break for players and Semifinals matches will start at July 26. After the Quarterfinals match, Semifinals map pool will be sent to players.
 Semifinals (2 Matches)          | July 26, 2024                   | Aiming to do all matches. After Semifinals, conclusion for Finals will be discussed and for those players who will fight for finals will be given a 2-days break, also giving the map pool for Finals.
 Finals (1 Match)                | July 28, 2024                   | This is the finals.
+
+## Prizes
+
+The osu!Supporternament Season 2 offers a grand total of 9 months of osu!Supporter.
+
+| Placing | Prizes |
+| :-: | :-- |
+| ![Gold crown](/imgs/crowns/crown-gold.png "1st place")        | 5 months of osu!Supporter
+| ![Silver crown](/imgs/crowns/rown-silver.png "2nd place")     | 3 months of osu!Supporter
+| ![Bronze crown](/imgs/crowns/crown-bronze.png "3rd place")    | 1 month of osu!Supporter
