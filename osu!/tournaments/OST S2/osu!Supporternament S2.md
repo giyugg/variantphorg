@@ -81,5 +81,69 @@ We are still looking for staffs!!!
 | ![Philippines](https://s.ppy.sh/images/flags/ph.gif "Philippines") | MilkyBio     | https://osu.ppy.sh/users/18708470 | Not yet confirmed.
 | ![Philippines](https://s.ppy.sh/images/flags/ph.gif "Philippines") | Logos        | https://osu.ppy.sh/users/12628843 | Not yet confirmed.
 
+## Mappools
 
+### Qualifiers
 
+**[Download the mappack here (0 MB)](LINK OF MAP PACK)**
+
+- No Mod
+  1. A
+  2. B
+  3. C
+  4. D
+- Hidden
+  1. A
+  2. B
+- Hard Rock
+  1. A
+  2. B
+- Double Time
+  1. A
+  2. B
+
+### Round of 32
+
+**[Download the mappack here (0 MB)](LINK OF MAP PACK)**
+
+- No Mod
+  1. A
+  2. B
+  3. C
+  4. D
+  5. E
+- Hidden
+  1. A
+  2. B
+- Hard Rock
+  1. A
+  2. B
+- Double Time
+  1. A
+  2. B
+  3. C
+- Tiebreaker
+  1. A
+
+### Round of 16
+
+**[Download the mappack here (0 MB)](LINK OF MAP PACK)**
+
+- No Mod
+  1. A
+  2. B
+  3. C
+  4. D
+  5. E
+- Hidden
+  1. A
+  2. B
+- Hard Rock
+  1. A
+  2. B
+- Double Time
+  1. A
+  2. B
+  3. C
+- Tiebreaker
+  1. A
