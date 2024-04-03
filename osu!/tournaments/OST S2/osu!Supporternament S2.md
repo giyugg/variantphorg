@@ -23,6 +23,6 @@ The osu!Supporternament Season 2 offers a grand total of 9 months of osu!Support
 
 | Placing | Prizes |
 | :-: | :-- |
-| ![Gold crown](/imgs/crowns/crown-gold.png "1st place")        | 5 months of osu!Supporter
-| ![Silver crown](/imgs/crowns/rown-silver.png "2nd place")     | 3 months of osu!Supporter
-| ![Bronze crown](/imgs/crowns/crown-bronze.png "3rd place")    | 1 month of osu!Supporter
+| ![Gold crown](/osu!/resources/imgs/crowns/crown-gold.png "1st place")        | 5 months of osu!Supporter
+| ![Silver crown](/osu!/resources/imgs/crowns/rown-silver.png "2nd place")     | 3 months of osu!Supporter
+| ![Bronze crown](/osu!/resources/imgs/crowns/crown-bronze.png "3rd place")    | 1 month of osu!Supporter
