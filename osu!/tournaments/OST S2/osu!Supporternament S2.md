@@ -67,3 +67,19 @@ We are still looking for staffs!!!
 - [Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSdAfvXKCNhO5tY_rLMEMveemOo_G1kV5INV1QWSDIsuOyL1kQ/viewform)
 - [Twitch](https://)
 - [Challonge](https://challonge.com/vrnt_supporternaments2)
+
+## Participants
+
+| Flag | Player Name | osu!Profile | Notes
+| :-: | :-- | :-- | :-- 
+| ![Philippines](https://s.ppy.sh/images/flags/ph.gif "Philippines") | komalister2  | https://osu.ppy.sh/users/23277031 | #1, Confirmed.
+| ![Philippines](https://s.ppy.sh/images/flags/ph.gif "Philippines") | -Taihou-     | https://osu.ppy.sh/users/20909712 | Not yet confirmed.
+| ![Philippines](https://s.ppy.sh/images/flags/ph.gif "Philippines") | chocorant    | https://osu.ppy.sh/users/31687925 | Not yet confirmed.
+| ![Philippines](https://s.ppy.sh/images/flags/ph.gif "Philippines") | Akiyuku      | https://osu.ppy.sh/users/18548303 | Not yet confirmed.
+| ![Philippines](https://s.ppy.sh/images/flags/ph.gif "Philippines") | marv16       | https://osu.ppy.sh/users/32868179 | Not yet confirmed.
+| ![Philippines](https://s.ppy.sh/images/flags/ph.gif "Philippines") | Shinn        | https://osu.ppy.sh/users/19221055 | Not yet confirmed. #311K peak.
+| ![Philippines](https://s.ppy.sh/images/flags/ph.gif "Philippines") | MilkyBio     | https://osu.ppy.sh/users/18708470 | Not yet confirmed.
+| ![Philippines](https://s.ppy.sh/images/flags/ph.gif "Philippines") | Logos        | https://osu.ppy.sh/users/12628843 | Not yet confirmed.
+
+
+
