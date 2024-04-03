@@ -23,6 +23,20 @@ The osu!Supporternament Season 2 offers a grand total of 9 months of osu!Support
 
 | Placing | Prizes |
 | :-: | :-- |
-| ![Gold crown](/osu!/resources/imgs/crowns/crown-gold.png "1st place")        | 5 months of osu!Supporter
-| ![Silver crown](/osu!/resources/imgs/crowns/crown.silver.png "2nd place")     | 3 months of osu!Supporter
-| ![Bronze crown](/osu!/resources/imgs/crowns/crown.bronze.png "3rd place")    | 1 month of osu!Supporter
+| ![Gold crown](/osu!/resources/imgs/crowns/crown-gold.png "1st place")        | 5 months of osu!Supporter and 50% of donated cash prize pool
+| ![Silver crown](/osu!/resources/imgs/crowns/crown.silver.png "2nd place")    | 3 months of osu!Supporter and 30% of donated cash prize pool
+| ![Bronze crown](/osu!/resources/imgs/crowns/crown.bronze.png "3rd place")    | 1 month of osu!Supporter and 20% of donated cash prize pool
+
+You can donate here!! Note that the money you'll be donating will be transfered to winning players and no money will be transfered to any members or staffs.
+* VRNT Maya Bank Account - WIRE TRANSFER via WISE
+  * Company Name/Account Name: VARIANT osuTourna S2
+  * Bank Name: MAYA BANK, INC.
+  * Bank Address: Floor 6, Launchpad Sheridan Corner Reliance Streets, City of Mandaluyong, Metro Manila, Philippines 1552
+  * Bank Swift Code: MYYAPHM2XXX
+  * Bank Account Number: 8151 2965 7285
+* GiyuGG's (the Host of this tournament) PayPal
+  * Paypal link: https://www.paypal.me/kalixuwu
+  * Paypal e-mail address: acunakyle.personal@yahoo.com
+
+Email us at variantphorg@gmail.com for the receipt of your donation.<br>
+I would like to offer thanks and appreciation to everyone who supports this tournament! Without you guys, this tournament is nothing.
