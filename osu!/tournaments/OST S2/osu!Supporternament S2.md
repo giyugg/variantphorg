@@ -57,3 +57,13 @@ Streamers       |
 Commentators    | ![Philippines](https://s.ppy.sh/images/flags/ph.gif "Philippines")[-Taihou-](https://osu.ppy.sh/users/20909712)
 
 We are still looking for staffs!!!
+
+## Links
+
+- [Forum Post](https://)
+- [Main Sheet](https://)
+- [Mappool for Qualifiers to RO16](https://)
+- [Mappool for Quarterfinals to Finals](https://)
+- [Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSdAfvXKCNhO5tY_rLMEMveemOo_G1kV5INV1QWSDIsuOyL1kQ/viewform)
+- [Twitch](https://)
+- [Challonge](https://challonge.com/vrnt_supporternaments2)
