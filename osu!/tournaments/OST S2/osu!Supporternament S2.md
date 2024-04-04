@@ -3,7 +3,7 @@
 
 The **osu!Supporternament** (***OST S2***) is a 1v1 osu! tournament hosted by the [VARIANT Community](/tournaments/people/s2_team). The second time that this tournament is concluded. 
 
-## Tournament Schedule
+## Tournament Schedule (✅)
 | Event | Date & Time | Notes
 | --: | :-- | :-- |
 | Registration Phase              | May 14, 2024 to June 14, 2024   | 64 players are expected to register.
@@ -15,7 +15,7 @@ The **osu!Supporternament** (***OST S2***) is a 1v1 osu! tournament hosted by th
 | Semifinals (2 Matches)          | July 26, 2024                   | Aiming to do all matches.<br>After Semifinals, conclusion for Finals will be discussed and for those players who will fight for finals,<br>will be given a 2-days break, also giving the map pool for Finals.
 | Finals (1 Match)                | July 28, 2024                   | This is the finals.
 
-## Prizes
+## Prizes (✅)
 
 The osu!Supporternament Season 2 offers a grand total of 9 months of osu!Supporter.
 
@@ -39,7 +39,7 @@ You can donate here!! Note that the money you'll be donating will be transfered 
 Email us at variantphorg@gmail.com for the receipt of your donation.<br>
 I would like to offer thanks and appreciation to everyone who supports this tournament<3! Without you guys, this tournament is nothing.
 
-## Organisation
+## Organisation (✅)
 
 The osu!Supporternament Season 2 is runned by the staff of the VARIANT osu!Community as listed:
 
@@ -58,7 +58,7 @@ The osu!Supporternament Season 2 is runned by the staff of the VARIANT osu!Commu
 
 We are still looking for staffs!!!
 
-## Links
+## Links (➖ - Pending for links)
 
 - [Forum Post](https://)
 - [Main Sheet](https://)
@@ -68,7 +68,7 @@ We are still looking for staffs!!!
 - [Twitch](https://)
 - [Challonge](https://challonge.com/vrnt_supporternaments2)
 
-## Participants
+## Participants (➖ - Waiting for completion of members)
 
 | Flag | Player Name | osu!Profile | Notes
 | :-: | :-- | :-- | :-- 
@@ -81,7 +81,7 @@ We are still looking for staffs!!!
 | ![Philippines](https://s.ppy.sh/images/flags/ph.gif "Philippines") | MilkyBio     | https://osu.ppy.sh/users/18708470 | Not yet confirmed.
 | ![Philippines](https://s.ppy.sh/images/flags/ph.gif "Philippines") | Logos        | https://osu.ppy.sh/users/12628843 | Not yet confirmed.
 
-## Mappools
+## Mappools (➖ - Maps are still waiting to be finalized)
 
 ### Qualifiers
 
@@ -149,7 +149,7 @@ We are still looking for staffs!!!
 - Tiebreaker
   1. A
 
-## Match Schedules
+## Match Schedules (✅ - Schedules are up)
 [comment]: <> (Change everything to UTC (GMT 0))
 
 * This section will be edited once participants are now locked in their designated schedules.
@@ -173,23 +173,23 @@ We are still looking for staffs!!!
 
 * Note on Finals: Finals may conclude 2 matches ; If the player won, he or she must won again or else, his or her opponent will win. [NOT YET IMPLIMENTED]
 
-## Ruleset
+## Ruleset (❎)
 
-### Tournament Rules
+### Tournament Rules (❎)
 
-### Tournament Registration
+### Tournament Registration (❎)
 
-### Qualifier instructions
+### Qualifier instructions (❎)
 
-### Stage instructions
+### Stage instructions (❎)
 
-### Match procedures
+### Match procedures (❎)
 
-### Mappool information
+### Mappool information (❎)
 
-### Scheduling information
+### Scheduling information (❎)
 
-## Notes
+## Notes (✅)
 [comment]: <1> (Figure out who made the OWC Forum and change the credits.)
 
 * [1] This forum is mostly made by [peppy's OWC 2023](https://raw.githubusercontent.com/ppy/osu-wiki/master/wiki/Tournaments/OWC/2023/en.md) and I just modified some bits here. Credits to ppy for everything!
