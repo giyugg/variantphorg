@@ -127,6 +127,7 @@ We are still looking for staffs!!!
 
 ### Round of 16
 
+
 **[Download the mappack here (0 MB)](LINK OF MAP PACK)**
 
 - No Mod
@@ -149,6 +150,7 @@ We are still looking for staffs!!!
   1. A
 
 ## Match Schedules
+[comment]: <> (Change everything to UTC (GMT 0))
 
 * This section will be edited once participants are now locked in their designated schedules.
 * Schedules can be changed, so stay updated! DM us for schedule change.
@@ -188,5 +190,6 @@ We are still looking for staffs!!!
 ### Scheduling information
 
 ## Notes
+[comment]: <1> (Figure out who made the OWC Forum and change the credits.)
 
 * [1] This forum is mostly made by [peppy's OWC 2023](https://raw.githubusercontent.com/ppy/osu-wiki/master/wiki/Tournaments/OWC/2023/en.md) and I just modified some bits here. Credits to ppy for everything!
