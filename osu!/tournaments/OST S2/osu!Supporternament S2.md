@@ -47,13 +47,13 @@ The osu!Supporternament Season 2 is runned by the staff of the VARIANT osu!Commu
 | :-- | :-- |
 | Host            | ![Philippines](https://s.ppy.sh/images/flags/ph.gif "Philippines")[GiyuGG](https://osu.ppy.sh/users/33637952)
 | Admin           | ![Japan](https://s.ppy.sh/images/flags/jp.gif "Japan")[VST Doublemint](https://osu.ppy.sh/users/18989091)
-| GFX             | 
-| Sheeter         | 
+| GFX             | LOOKING FOR MEMBERS
+| Sheeter         | LOOKING FOR MEMBERS
 | Poolers         | ![Brazil](https://s.ppy.sh/images/flags/br.gif "Brazil")[-Gabys-](https://osu.ppy.sh/users/28214731), ![Japan](https://s.ppy.sh/images/flags/jp.gif "Japan")[VST Doublemint](https://osu.ppy.sh/users/18989091)
-| Playtesters     | 
-| Mappers         | 
-| Referee         |
-| Streamers       | 
+| Playtesters     | LOOKING FOR MEMBERS
+| Mappers         | LOOKING FOR MEMBERS
+| Referee         | LOOKING FOR MEMBERS
+| Streamers       | LOOKING FOR MEMBERS
 | Commentators    | ![Philippines](https://s.ppy.sh/images/flags/ph.gif "Philippines")[-Taihou-](https://osu.ppy.sh/users/20909712)
 
 We are still looking for staffs!!!
