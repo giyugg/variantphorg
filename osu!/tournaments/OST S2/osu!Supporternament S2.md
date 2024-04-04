@@ -77,7 +77,6 @@ We are still looking for staffs!!!
 | ![Philippines](https://s.ppy.sh/images/flags/ph.gif "Philippines") | chocorant    | https://osu.ppy.sh/users/31687925 | Not yet confirmed.
 | ![Philippines](https://s.ppy.sh/images/flags/ph.gif "Philippines") | Akiyuku      | https://osu.ppy.sh/users/18548303 | Not yet confirmed.
 | ![Philippines](https://s.ppy.sh/images/flags/ph.gif "Philippines") | marv16       | https://osu.ppy.sh/users/32868179 | Not yet confirmed.
-| ![Philippines](https://s.ppy.sh/images/flags/ph.gif "Philippines") | Shinn        | https://osu.ppy.sh/users/19221055 | Not yet confirmed. #311K peak.
 | ![Philippines](https://s.ppy.sh/images/flags/ph.gif "Philippines") | MilkyBio     | https://osu.ppy.sh/users/18708470 | Not yet confirmed.
 | ![Philippines](https://s.ppy.sh/images/flags/ph.gif "Philippines") | Logos        | https://osu.ppy.sh/users/12628843 | Not yet confirmed.
 
