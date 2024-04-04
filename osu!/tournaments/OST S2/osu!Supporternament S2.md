@@ -150,6 +150,27 @@ We are still looking for staffs!!!
 
 ## Match Schedules
 
+* This section will be edited once participants are now locked in their designated schedules.
+* Schedules can be changed, so stay updated! DM us for schedule change.
+* Seedings are based on [osu!Supporternament's Challonge](https://challonge.com/vrnt_supporternaments2)
+
+| Event | Date & Time | Participants
+| --: | :-- | :--
+| Qualifier Stage | June 21-28, 2024 [ANYTIME]   | Every participants will ask for @Referees to make a match for them
+| Round of 32     | July 5, 2024 [5:00PM GMT+8]<br>July 5, 2024 [7:00PM GMT+8]<br>July 5, 2024 [9:00PM GMT+8]<br>July 5, 2024 [11:00PM GMT+8]  | Seed #1 vs Seed #32<br>Seed #16 vs Seed #17<br>Seed #8 vs Seed #25<br> Seed #9 vs Seed #24
+|                 | July 6, 2024 [5:00PM GMT+8]<br>July 6, 2024 [7:00PM GMT+8]<br>July 6, 2024 [9:00PM GMT+8]<br>July 6, 2024 [11:00PM GMT+8]  | Seed #4 vs Seed #29<br>Seed #13 vs Seed #20<br>Seed #5 vs Seed #28<br> Seed #12 vs Seed #21
+|                 | July 7, 2024 [5:00PM GMT+8]<br>July 7, 2024 [7:00PM GMT+8]<br>July 7, 2024 [9:00PM GMT+8]<br>July 7, 2024 [11:00PM GMT+8]  | Seed #2 vs Seed #31<br>Seed #15 vs Seed #18<br>Seed #7 vs Seed #26<br> Seed #10 vs Seed #23
+|                 | July 8, 2024 [5:00PM GMT+8]<br>July 8, 2024 [7:00PM GMT+8]<br>July 8, 2024 [9:00PM GMT+8]<br>July 8, 2024 [11:00PM GMT+8]  | Seed #3 vs Seed #30<br>Seed #14 vs Seed #19<br>Seed #6 vs Seed #27<br> Seed #11 vs Seed #22
+| Round of 16     | July 12, 2024 [7:00PM GMT+8]<br>July 12, 2024 [9:00PM GMT+8]<br>July 12, 2024 [11:00PM GMT+8] | MatchID_17 / RO16_MatchID_1<br>MatchID_18 / RO16_MatchID_2<br>MatchID_19 / RO16_MatchID_3
+|                 | July 13, 2024 [7:00PM GMT+8]<br>July 13, 2024 [9:00PM GMT+8]<br>July 13, 2024 [11:00PM GMT+8] | MatchID_20 / RO16_MatchID_4<br>MatchID_21 / RO16_MatchID_5<br>MatchID_22 / RO16_MatchID_6
+|                 | July 14, 2024 [7:00PM GMT+8]<br>July 14, 2024 [9:00PM GMT+8]                                  | MatchID_23 / RO16_MatchID_7<br>MatchID_24 / RO16_MatchID_8
+| Quarterfinals   | July 19, 2024 [7:00PM GMT+8]<br>July 19, 2024 [9:00PM GMT+8]  | MatchID_25 / QTR_MatchID_1<br>MatchID_26 / QTR_MatchID_2
+|                 | July 20, 2024 [7:00PM GMT+8]<br>July 20, 2024 [9:00PM GMT+8]  | MatchID_27 / QTR_MatchID_3<br>MatchID_28 / QTR_MatchID_4
+| Semifinals      | July 26, 2024 [8:00PM GMT+8]<br>July 26, 2024 [10:00PM GMT+8] | MatchID_29 / SEM_MatchID_1<br>MatchID_30 / SEM_MatchID_2
+| Finals          | July 28, 2024 [10:00PM GMT+8] | MatchID_31 / FIN_MatchID_1
+
+* Note on Finals: Finals may conclude 2 matches ; If the player won, he or she must won again or else, his or her opponent will win. [NOT YET IMPLIMENTED]
+
 ## Ruleset
 
 ### Tournament Rules
@@ -168,4 +189,4 @@ We are still looking for staffs!!!
 
 ## Notes
 
-* [1] This forum is mostly made by [peppy's OWC 2023](https://raw.githubusercontent.com/ppy/osu-wiki/master/wiki/Tournaments/OWC/2023/en.md) and I just modified some bits here.
+* [1] This forum is mostly made by [peppy's OWC 2023](https://raw.githubusercontent.com/ppy/osu-wiki/master/wiki/Tournaments/OWC/2023/en.md) and I just modified some bits here. Credits to ppy for everything!
