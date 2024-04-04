@@ -1,15 +1,10 @@
-def print_divider():
-    print("---------------------------------------------")
+from tabulate import tabulate
 
-def print_task(task_name, status):
-    print(f"{task_name}\nStatus: {status}")
-    print_divider()
+tasks = [
+    ["Markdown File for osu!Supporternament S2", "In progress.", "", ""],
+    ["BBCode File for osu!Supporternament S2", "To be created again.", "Current version sucks.", ""]
+]
 
-print_divider()
-print("TASK LIST FOR OST S2")
-print_divider()
+headers = ["Task", "Status", "Reason", "Notes"]
 
-print_task("Markdown File for osu!Supporternament S2", "In progress.")
-
-print_task("BBCode File for osu!Supporternament S2",
-           "To be created again.\nReason: Current version sucks.")
+print(tabulate(tasks, headers=headers, tablefmt="grid"))
