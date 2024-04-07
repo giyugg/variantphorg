@@ -172,9 +172,10 @@ We are still looking for staffs!!!
 
 * Note on Finals: Finals may conclude 2 matches ; If the player won, he or she must won again or else, his or her opponent will win. [NOT YET IMPLIMENTED]
 
-## Ruleset (❎)
+## Ruleset (➖ - In progress 1/7)
 
-### Tournament Rules (❎)
+### Tournament Rules (➖ - Pending for proofread)
+
 1. The osu!Supporternament Season 2 is a 1 versus 1 single-elimination player tournament, played on the osu! game mode.
 2. Beatmap scoring is based on ScoreV2.
 3. The maximum players registered on this tournament is 64.
@@ -217,17 +218,48 @@ We are still looking for staffs!!!
 19. The tournament managers will be responsible for receiving and investigating any tournament-related complaints.
 20. The tournament managers reserve the right to modify these rules at any moment. Any such changes will be announced in advance.
 
-### Tournament Registration (❎)
+### Tournament Registration (✅)
 
-### Qualifier instructions (❎)
+1. To ensure valid registrations, every prospective participant will be manually checked by the staff of VARIANT osu!Community that handles account checking.
+   - If you have an account issues, please visit the [Account support team](https://osu.ppy.sh/wiki/en/People/Account_support_team) on osu!. VARIANT Organization is not responsible on any account issue that the player have.
+2. All successfully registered players will be published after the registration phase on this page.
+   - Once you find yourself on this page with your opponent. You two must communicate with each other regarding on your qualifier schedules.
+3. Tournament staff members are **not** allowed to play in the tournament, with the exception of commentators, and streamers.
+   - The tournament managers must ensure that such staff members do not have access to any priviledged data that are private and should not be showned publicly.
 
-### Stage instructions (❎)
+Registrations are on [this link](https://forms.gle/NvDK1f2oqB9J5DmBA). Kindly wait for an email coming from variantphorg@gmail.com for your slot confirmation.
 
-### Match procedures (❎)
+### Qualifier instructions (✅)
 
-### Mappool information (❎)
+1. In the Qualifier stage, all players will play a specific pool designed by the mappool selectors.
+2. The mappool will contain 4 brackets: No Mod, [Hidden](https://osu.ppy.sh/wiki/en/Gameplay/Game_modifier/Hidden), [Hard Rock](https://osu.ppy.sh/wiki/en/Gameplay/Game_modifier/Hard_Rock), and [Double Time](https://osu.ppy.sh/wiki/en/Gameplay/Game_modifier/Double_Time). There will be no Free Mods or tiebreakers for this stage.
+3. The Qualifier pool will feature 10 beatmaps, organised as such:
+   - No Mod: 4 beatmaps
+   - Hidden: 2 beatmaps
+   - Hard Rock: 2 beatmaps
+   - Double Time: 2 beatmaps
+4. The mappool is to be played according to the order listed on this page.
+5. An optional 3-minute break will be offered between the first and second playthrough of the mappool.
+6. All players will play their qualifiers in separate rooms. It is *suggested* that players do not broadcast or share their results publicly.
+7. Only the top 32 players will advance to the Round of 32.
 
-### Scheduling information (❎)
+### Stage instructions (➖ - Need some more instructions)
+
+1. Following the Qualifiers, a single-elimination bracket will be played
+   - Rules are if you won the match, you'll advance on the next match and if you lose, you are eliminated on this competition.
+
+### Win conditions (✅)
+
+- In the Qualifiers, players need to fight for the spot in RO32 slot and all maps must be played, losing or winning. MUST ALL MAPS WILL BE PLAYED!
+- In the Round of 32 and Round of 16, players need to ban 1 map each and win 5 maps to win a match (best of 9).
+- In the Quarterfinals and Semifinals, players need to ban 2 maps each and win 6 maps to win a match (best of 11).
+- In the Finals, players need to ban 2 maps each and win 7 maps to win a match (best of 13).
+
+### Match procedures (❌)
+
+### Mappool information (❌)
+
+### Scheduling information (❌)
 
 ## Notes (✅)
 [comment]: <1> (Figure out who made the OWC Forum and change the credits.)
