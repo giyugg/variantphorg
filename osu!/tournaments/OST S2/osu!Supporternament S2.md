@@ -75,8 +75,8 @@ We are still looking for staffs!!!
 | ![Philippines](https://s.ppy.sh/images/flags/ph.gif "Philippines") | komalister2  | https://osu.ppy.sh/users/23277031 | #1, Confirmed.
 | ![Philippines](https://s.ppy.sh/images/flags/ph.gif "Philippines") | MilkyBio     | https://osu.ppy.sh/users/18708470 | #2, Confirmed.
 | ![Philippines](https://s.ppy.sh/images/flags/ph.gif "Philippines") | -Taihou-     | https://osu.ppy.sh/users/20909712 | #3, Confirmed.
+| ![Philippines](https://s.ppy.sh/images/flags/ph.gif "Philippines") | Akiyuku      | https://osu.ppy.sh/users/18548303 | #4, Confirmed.
 | ![Philippines](https://s.ppy.sh/images/flags/ph.gif "Philippines") | chocorant    | https://osu.ppy.sh/users/31687925 | Not yet confirmed.
-| ![Philippines](https://s.ppy.sh/images/flags/ph.gif "Philippines") | Akiyuku      | https://osu.ppy.sh/users/18548303 | Not yet confirmed.
 | ![Philippines](https://s.ppy.sh/images/flags/ph.gif "Philippines") | marv16       | https://osu.ppy.sh/users/32868179 | Not yet confirmed.
 | ![Philippines](https://s.ppy.sh/images/flags/ph.gif "Philippines") | Logos        | https://osu.ppy.sh/users/12628843 | Not yet confirmed.
 
