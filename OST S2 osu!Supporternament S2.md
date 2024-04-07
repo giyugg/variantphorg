@@ -175,7 +175,7 @@ We are still looking for staffs!!!
 ## Ruleset (❎)
 
 ### Tournament Rules (❎)
-1. The osu! World Cup is a 1 versus 1 single-elimination player tournament, played on the osu! game mode.
+1. The osu!Supporternament Season 2 is a 1 versus 1 single-elimination player tournament, played on the osu! game mode.
 2. Beatmap scoring is based on ScoreV2.
 3. The maximum players registered on this tournament is 64.
 4. The mappool for each round will be announced by the mappool selectors on the official discord server, on every after-matches before the matches take place.
