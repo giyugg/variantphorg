@@ -1,5 +1,5 @@
 # osu!Supporternament S2 **[STANDARD 10K-100K**]
-![OST Season 2 banner](/imgs/osu!Supporternament_S2_banner.png)
+![OST Season 2 banner](/osu!/resources/imgs/osu!Supporternament_S2_banner.png)
 
 The **osu!Supporternament** (***OST S2***) is a 1v1 osu! tournament hosted by the [VARIANT Community](/tournaments/people/s2_team). The second time that this tournament is concluded. 
 
@@ -265,3 +265,5 @@ Registrations are on [this link](https://forms.gle/NvDK1f2oqB9J5DmBA). Kindly wa
 [comment]: <1> (Figure out who made the OWC Forum and change the credits.)
 
 * [1] This forum is mostly made by [peppy's OWC 2023](https://raw.githubusercontent.com/ppy/osu-wiki/master/wiki/Tournaments/OWC/2023/en.md) and I just modified some bits here. Credits to ppy for everything!
+
+[def]: /imgs/
